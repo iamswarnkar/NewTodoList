@@ -1,0 +1,55 @@
+.inpt {
+  height: 2rem;
+  width: 22rem;
+}
+
+.form-btn {
+  height: 2.3rem;
+  padding: 5px;
+  font-size: large;
+  font-weight: 500;
+}
+
+.taskList {
+  width: 80vw;
+  margin: 5% 12% 0 3%;
+  background-color: beige;
+  box-shadow: 0 0 6px black;
+  padding: 7%;
+  border-radius: 12px;
+}
+
+.list {
+  border-bottom: 2px solid gray;
+  margin: 2%;
+  border-radius: 3px;
+  list-style: disc;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.item {
+  font-size: large;
+  font-weight: bolder;
+}
+
+.completed {
+  text-decoration: line-through;
+  font-size: large;
+  font-weight: bolder;
+}
+
+.dlt-btn {
+  padding: 6px;
+  width: 15%;
+  height: 5%;
+}
+
+.yllw-star,
+.empty-str,
+.item,
+.btn,
+#date {
+  margin: 3%;
+}
